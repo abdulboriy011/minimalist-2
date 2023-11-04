@@ -37,6 +37,7 @@ button {
 
 .header {
   padding: 64px 0 9px 0;
+  margin-bottom: 152px;
 }
 .header .header_box {
   display: flex;
@@ -64,4 +65,27 @@ button {
   line-height: normal;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+.hero .hero-box-2 {
+  display: flex;
+  justify-content: space-between;
+}
+.hero .hero-box-2 h2 {
+  color: #33323D;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: -0.357px;
+}
+.hero .hero-box-2 p {
+  width: 635px;
+  color: #33323D;
+  margin-bottom: 24px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  opacity: 0.8;
 }/*# sourceMappingURL=main.css.map */
